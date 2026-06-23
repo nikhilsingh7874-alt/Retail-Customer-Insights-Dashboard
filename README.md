@@ -23,7 +23,7 @@ The primary objective of this project is to:
 6.Support data-driven business decisions
 
 ## DataSet Used
-<a href="https://github.com/nikhilsingh7874-alt/Retail-Customer-Insights-Dashboard/blob/main/customer_shopping_behavior.csv"></a>
+<a href="https://github.com/nikhilsingh7874-alt/Retail-Customer-Insights-Dashboard/blob/main/customer_shopping_behavior.csv">customer_shopping_behavior.csv</a>
 
 ## 🛠️ Tools & Technologies Used
 
@@ -37,9 +37,8 @@ The primary objective of this project is to:
 
 ## 📈 Dashboard Features
 
-![Uploading Screenshot 2026-06-20 231012.png…](![Uploading Screenshot 2026-06-20 231012.png…](https://github.com/nikhilsingh7874-alt/phonepe-transaction-analytics-dashboard/blob/main/Screenshot%202026-06-20%20231012.png
-)
-)
+![D:\Customer Analysis Project](https://github.com/nikhilsingh7874-alt/Retail-Customer-Insights-Dashboard/blob/main/Dashboard_image.png)
+
 
 📌 Key Performance Indicators (KPIs)
 
